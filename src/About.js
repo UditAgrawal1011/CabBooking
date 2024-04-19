@@ -51,7 +51,7 @@ function About() {
                     <div className="team-container">
                         {[
                             {
-                                imgSrc: 'vivek3-Photoroom.jpg',
+                                imgSrc: 'udit.jpeg',
                                 name: 'Udit Agrawal',
                                 title: 'CEO & Founder',
                             },
