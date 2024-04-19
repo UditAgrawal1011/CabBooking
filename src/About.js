@@ -52,23 +52,23 @@ function About() {
                         {[
                             {
                                 imgSrc: 'vivek3-Photoroom.jpg',
-                                name: 'Vivek Jaiswal',
+                                name: 'Udit Agrawal',
                                 title: 'CEO & Founder',
                             },
                             {
-                                imgSrc: 'chinu-Photoroom.jpg',
-                                name: 'Abhishek Jain',
-                                title: 'Chief Operating Officer',
+                                //imgSrc: '',
+                                //name: '',
+                                //title: 'Chief Operating Officer',
                             },
                             {
-                                imgSrc: 'nikhil.jpg',
-                                name: 'Nikhil Gupta',
-                                title: 'Head of Marketing',
+                                //imgSrc: '',
+                                //name: '',
+                                //title: 'Head of Marketing',
                             },
                             {
-                                imgSrc: 'aakriti-Photoroom.jpg',
-                                name: 'Aakriti Musaddi',
-                                title: 'Customer Support Manager',
+                                //imgSrc: '',
+                                //name: '',
+                                //title: 'Customer Support Manager',
                             },
                         ].map((member, index) => (
                             <div key={index} className="team-member">
